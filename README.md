@@ -65,5 +65,3 @@ I welcome:
 - Conversations if you'd like to collaborate on automation or DevOps tooling.
 
 ---
-
- *Note: If `gopi-tools` has similarly named repos or different tooling focus (e.g., CI pipelines, monitoring scripts), let me know so I can update this README accordingly.*
