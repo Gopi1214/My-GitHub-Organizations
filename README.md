@@ -1,67 +1,65 @@
-# 👋 Hi, I'm Gopi — Site Reliability Engineer & DevOps Practitioner
+# 👋 Hi, I'm Gopi — Site Reliability Engineer & DevOps Professional
 
-I manage two GitHub organizations featuring a comprehensive portfolio of Infrastructure as Code, DevOps automation, and SRE projects. These reflect my evolving expertise in cloud-native technologies, CI/CD pipelines, and scalable infrastructure.
-
----
-
-## 🚀 Gopi76s (2023–2024) — Foundational Infrastructure & Automation
-
-This organization hosts my earlier projects focusing on building robust AWS infrastructure using Terraform, Kubernetes manifests, Helm charts, and automation scripting.
-
-**Key Highlights:**
-
-- Terraform modules managing AWS resources like VPCs, EKS clusters, ALBs, RDS, and networking  
-- Kubernetes YAML files, Helm charts for deploying microservices  
-- Ansible roles and shell scripts for configuration management and app deployments  
-- Jenkins pipelines for continuous provisioning and deployment automation
-
-Explore repositories: [https://github.com/orgs/Gopi76s/repositories](https://github.com/orgs/Gopi76s/repositories)
-
-**Notable Repositories:**
-
-| Repository             | Description                                   |
-|-----------------------|-----------------------------------------------|
-| `roboshop-infra-prod` | Terraform-based production infrastructure for RoboShop e-commerce app |
-| `k8-resources`        | Kubernetes manifests and resource definitions |
-| `roboshop-ansible`    | Ansible roles for application deployment       |
-| `terraform-aws-eks`   | EKS cluster provisioning using Terraform       |
+I have over 4 years of hands-on experience in DevOps and Site Reliability Engineering, combining deep expertise in infrastructure automation, cloud-native deployments, and CI/CD pipelines.
 
 ---
 
-## 🔧 Gopi86s (2025–Present) — Advanced Automation & Modernization
+## 👨‍💼 Professional Journey
 
-This newer organization contains my latest work refining automation scripts, improving CI/CD pipelines, and modernizing infrastructure deployments with the latest DevOps practices.
+- **DevOps Engineer** — December 2021 to May 2024  
+  Built and maintained automated infrastructure, developed CI/CD pipelines, managed containerized microservices, and optimized deployment workflows.
 
-**Key Highlights:**
+- **Site Reliability Engineer (SRE)** — June 2024 to Present  
+  Focused on production-grade reliability, scaling cloud infrastructure, incident management, and automating operational tasks to ensure high availability.
 
-- Enhanced Terraform modules and multi-environment setups  
-- Improved Helm charts and Kubernetes resource automation  
-- Sophisticated CI/CD workflows integrating Jenkins and GitHub Actions  
-- Focus on security, scalability, and monitoring enhancements
+---
 
-Explore repositories: [https://github.com/orgs/Gopi86s/repositories](https://github.com/orgs/Gopi86s/repositories)
+## 🚀 GitHub Organizations
 
-*(Add your top repos from Gopi86s here when ready)*
+I manage two GitHub organizations featuring my evolving portfolio of DevOps and SRE projects:
+
+---
+
+### Gopi76s (2023–2024) — Foundational Infrastructure & Automation
+
+- Terraform modules for AWS infrastructure (VPC, EKS, ALB, RDS)  
+- Kubernetes manifests and Helm charts for microservices deployment  
+- Ansible roles and shell scripting for configuration and app deployment  
+- Jenkins pipelines for CI/CD automation
+
+Explore: [Gopi76s Repositories](https://github.com/orgs/Gopi76s/repositories)
+
+---
+
+### Gopi86s (2025–Present) — Advanced Automation & Modernization
+
+- Modernized Terraform and Kubernetes setups  
+- Sophisticated CI/CD workflows integrating Jenkins & GitHub Actions  
+- Focus on scalability, security, and monitoring enhancements
+
+Explore: [Gopi86s Repositories](https://github.com/orgs/Gopi86s/repositories)
 
 ---
 
 ## 🛠 Technologies & Tools
 
 - **Infrastructure as Code:** Terraform, Ansible, Shell scripting  
-- **Cloud:** AWS (VPC, EKS, ALB, RDS, ACM, CloudFront)  
-- **Containers & Orchestration:** Docker, Kubernetes, Helm  
+- **Cloud (AWS):** VPC, EKS, ALB, RDS, ACM, CloudFront, S3, Route 53, WAF, CloudWatch, ECR, Secrets Manager, KMS  
+- **Containerization & Orchestration:** Docker, Kubernetes, Helm  
 - **CI/CD:** Jenkins, GitHub Actions, Groovy Pipelines  
-- **Languages & Scripting:** Bash, Shell, Jinja
+- **Scripting & Automation:** Bash, Shell  
+- **Monitoring & Observability:** Prometheus, VictoriaMetrics, Grafana, Kibana  
+- **Service Mesh & Networking:** Istio, Envoy, NGINX
 
 ---
 
 ## 📫 Contact & Availability
 
-- Currently seeking **on-site SRE/DevOps roles** in Bengaluru, Hyderabad, Chennai, or Pune  
-- GitHub Profile: [Gopi1214](https://github.com/Gopi1214)  
-- Email: (Add your email here)  
+- Seeking **on-site SRE/DevOps roles internationally**  
+- GitHub: [Gopi1214](https://github.com/Gopi1214)  
+- Email: gopiaws98@gmail.com
 
 ---
 
-*“I build, automate, and scale cloud infrastructure and microservices with reliability and efficiency at the core.”*  
+*“Driving automation and reliability to deliver scalable cloud infrastructure and resilient microservices.”*  
 — Gopi
