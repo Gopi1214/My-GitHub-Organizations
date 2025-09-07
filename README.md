@@ -27,7 +27,7 @@ In my current role, I lead the automation of cloud infrastructure, service deliv
 
 ### 🖼️ Architecture Diagram
 
-![Infrastructure Diagram](./infra.jpg)
+![Infrastructure Diagram](![alt text](infra.jpg))
 
 ### 📊 Infra Metrics
 
