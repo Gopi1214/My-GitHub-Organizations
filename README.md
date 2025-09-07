@@ -1,98 +1,99 @@
 # 👋 Hi, I'm Gopi — Site Reliability Engineer | DevOps Automation Specialist
 
-I design and automate **production-ready infrastructure** using Terraform, Kubernetes, and CI/CD pipelines. My work emphasizes reliability, scalability, and secure automation — all with a focus on real-world deployment needs.
+I design and automate **production-ready infrastructure** using Terraform, Kubernetes, and CI/CD pipelines. My work emphasizes reliability, scalability, and secure automation—optimized for real-world deployment needs.
 
 ---
 
 ## 💼 Current Role: Site Reliability Engineer (SRE)
 
-In my current role, I lead the automation of cloud infrastructure, service delivery, and environment reliability. I build tools and modules that make deployment faster, safer, and repeatable — especially across staging and production environments.
+As an SRE, I build tools and modules that make infrastructure deployment faster, safer, and repeatable—focused on reliability across development and production environments.
 
 ---
 
 ## 🔧 Flagship Project: `roboshop-infra-prod`
 
-> A complete production-ready infrastructure project using **Terraform + Jenkins**, deployed on **AWS** and structured with microservices.
+A complete, production-ready infrastructure repository using **Terraform + Jenkins**, deployed on **AWS** and structured for microservices.
 
-### ⚙️ What It Automates
+###  Key Features
 
-- VPC, Subnets, Route Tables
-- Security Groups & VPN
-- Databases (RDS)
-- Application & Web Load Balancers
-- TLS Certificates (ACM)
-- CDN with CloudFront
-- Multi-service app deployment (User, Cart, Catalogue, Payment, Shipping)
-- CI/CD with `Jenkinsfile` for provisioning + teardown
+- Modular provisioning with Terraform:
+  - VPC, Subnets, Route Tables
+  - Security Groups & VPN
+  - RDS Databases
+  - App & Web Load Balancers
+  - TLS via ACM
+  - CDN (CloudFront)
+  - Microservices: User, Cart, Catalogue, Shipping, Payment
+- CI/CD Pipelines:
+  - `Jenkinsfile` – Infrastructure provisioning
+  - `Jenkinsfile-destroy` – Clean teardown pipeline
 
-### 🖼️ Architecture Diagram
+###  Architecture Diagram
 
-![Infrastructure Diagram](![alt text](infra.jpg))
+![Infrastructure Diagram](https://raw.githubusercontent.com/Gopi76s/roboshop-infra-prod/main/infra.jpg)
 
-### 📊 Infra Metrics
+> *Make sure the diagram is uploaded as `infra.jpg` in the repo root for this to render.*
 
-| Metric                     | Value                          |
-|----------------------------|---------------------------------|
-| Terraform Apply Time       | ~8 minutes                     |
-| Terraform Destroy Time     | ~3 minutes                     |
-| Modules Used               | 10+ custom reusable modules    |
-| Environments Supported     | Dev, Prod                      |
-| CI/CD Toolchain            | Jenkins + Terraform            |
-| Secure Practices           | Encrypted backends, IAM least-privilege, TLS via ACM |
+###  Infrastructure Metrics
 
-📍 **Repo**: [roboshop-infra-prod](https://github.com/Gopi76s/roboshop-infra-prod)
+| Metric                    | Value                           |
+|---------------------------|----------------------------------|
+| Terraform Apply Time      | ~8 minutes                      |
+| Terraform Destroy Time    | ~3 minutes                      |
+| Modules Used              | 10+ reusable modules            |
+| Environments Supported    | Dev, Prod                       |
+| CI/CD Toolchain           | Jenkins + Terraform             |
+| Security Practices        | ACM for TLS, IAM least privilege |
 
----
-
-## 🏗️ GitHub Organizations
-
-I maintain two organizations that reflect different phases of my automation journey:
-
-### 🔹 [gopi-tech](https://github.com/gopi-tech) (2023–2024)
-Foundational tools and scripts for:
-- Shell-based infra automation (`roboshop-shell`, `shell-script`)
-- Kubernetes deployments (`k8-*`)
-- Dockerfiles, Helm charts, Git basics
-- Terraform modules for AWS infrastructure
-
-### 🔸 [gopi-tools](https://github.com/gopi-tools) (2025+)
-Production-level tooling:
-- Modular and reusable infrastructure components
-- Streamlined CI/CD scripts and dynamic provisioning
-- Improved security, reliability, and state management
+###  Repo Link:
+[roboshop-infra-prod](https://github.com/Gopi76s/roboshop-infra-prod)
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  GitHub Organization Journey
+
+###  [gopi-tech](https://github.com/gopi-tech) (2023–2024)
+Early-stage automation work focusing on:
+- Shell-based infra scripting (`roboshop-shell`, etc.)
+- Kubernetes manifests (`k8-*`)
+- Terraform modules (`terraform-aws-*`)
+- Ansible roles and Docker tooling
+
+###  [gopi-tools](https://github.com/gopi-tools) (2025+)
+Refined, modular infrastructure tooling:
+- Production-ready modules
+- CI/CD scripts
+- Secure, resilient infrastructure practices
+
+---
+
+##  Tech Stack
 
 | Area                     | Tools / Technologies                            |
 |--------------------------|--------------------------------------------------|
 | **IaC**                  | Terraform, Ansible, Shell                        |
-| **CI/CD**                | Jenkins, GitHub Actions, Groovy                 |
-| **Scripting**            | Bash, Jinja, Shell                               |
-| **Cloud Platforms**      | AWS (EKS, ALB, VPC, ACM, RDS, S3, IAM)          |
-| **Containers & Orchestration** | Docker, Kubernetes, Helm               |
-| **Security & Secrets**   | ACM, IAM policies, Terraform backends            |
+| **CI/CD**                | Jenkins, GitHub Actions, Groovy                  |
+| **Scripting**            | Bash, Jinja, Shell                              |
+| **Cloud Infrastructure** | AWS (VPC, EKS, ALB, ACM, RDS, CDN, IAM)          |
+| **Containers & Orchestration** | Docker, Kubernetes, Helm                  |
+| **Security & Compliance**| TLS via ACM, Terraform state security, IAM best practices |
 
 ---
 
-## 🔍 Explore My Work
+##  Explore My Work
 
-- 🏗️ **Infrastructure**: [roboshop-infra-prod](https://github.com/Gopi76s/roboshop-infra-prod)
-- 🛠️ **Org: Tools**: [gopi-tools](https://github.com/gopi-tools)
-- 🧪 **Org: Foundation**: [gopi-tech](https://github.com/gopi-tech)
-- 📁 **Profile**: [github.com/Gopi1214](https://github.com/Gopi1214)
+-  **Infra Project**: [roboshop-infra-prod](https://github.com/Gopi76s/roboshop-infra-prod)  
+-  **Foundational Org**: [gopi-tech](https://github.com/gopi-tech)  
+-  **Advanced Org**: [gopi-tools](https://github.com/gopi-tools)  
+-  **My Profile**: [Gopi1214](https://github.com/Gopi1214)  
 
 ---
 
-## 📫 Let’s Connect
+##  Connect With Me
 
 I'm open to:
-- On-site SRE or DevOps roles (Bangalore, Hyderabad, Chennai, Pune, etc.)
-- Collaborative automation or IaC work
-- Building and scaling cloud-native infra for production workloads
+- On-site SRE or DevOps roles in **Bengaluru** or nearby regions
+- Collaborations focused on infra automation and resiliency
+- Team discussions around production-grade deployment practices
 
-> "Automate everything. Recover quickly. Design for resilience." — My approach as an SRE.
-
----
-
+> _"Automate strongly. Recover quickly. Build with resilience in mind."_ — My SRE philosophy.
