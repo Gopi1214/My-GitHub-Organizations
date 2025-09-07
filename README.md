@@ -1,87 +1,67 @@
-# 🛠️ RoboShop — Personal DevOps & SRE Project
+# 👋 Hi, I'm Gopi — Site Reliability Engineer & DevOps Practitioner
 
-This is a self-driven project that replicates the kind of infrastructure and automation challenges faced in real-world production environments. I designed, built, and deployed a complete e-commerce application and its underlying infrastructure using tools like **Terraform, Jenkins, Kubernetes, Docker, and AWS**.
-
----
-
-## 📦 Project Summary
-
-| Category             | Details                                                                 |
-|----------------------|-------------------------------------------------------------------------|
-| Type                 | **Personal Project**                                                    |
-| Focus                | Full DevOps Lifecycle: Infra + App Deployment                           |
-| Duration             | 2023–2025 (Ongoing improvements)                                        |
-| Purpose              | Hands-on mastery of SRE & DevOps tools via a production-style setup     |
-| Status               | ✅ Actively maintained                                                  |
+I manage two GitHub organizations featuring a comprehensive portfolio of Infrastructure as Code, DevOps automation, and SRE projects. These reflect my evolving expertise in cloud-native technologies, CI/CD pipelines, and scalable infrastructure.
 
 ---
 
-## 🧱 Project Structure
+## 🚀 Gopi76s (2023–2024) — Foundational Infrastructure & Automation
 
-### 1️⃣ `roboshop-infra-prod` — Infrastructure as Code (Terraform)
+This organization hosts my earlier projects focusing on building robust AWS infrastructure using Terraform, Kubernetes manifests, Helm charts, and automation scripting.
 
-- Cloud: **AWS**
-- Infra Components:
-  - VPC, Subnets, Internet Gateway
-  - Load Balancers (ALB)
-  - TLS (via ACM)
-  - RDS (MySQL/Postgres)
-  - CloudFront CDN
-- CI/CD: **Jenkins Pipelines** for provisioning + teardown
-- Modular structure with reusable Terraform modules
+**Key Highlights:**
 
-📌 Repo: [roboshop-infra-prod](https://github.com/Gopi76s/roboshop-infra-prod)
+- Terraform modules managing AWS resources like VPCs, EKS clusters, ALBs, RDS, and networking  
+- Kubernetes YAML files, Helm charts for deploying microservices  
+- Ansible roles and shell scripts for configuration management and app deployments  
+- Jenkins pipelines for continuous provisioning and deployment automation
 
-📸 Diagram:  
-![Architecture](https://raw.githubusercontent.com/Gopi76s/roboshop-infra-prod/main/infra.jpg)
+Explore repositories: [https://github.com/orgs/Gopi76s/repositories](https://github.com/orgs/Gopi76s/repositories)
 
----
+**Notable Repositories:**
 
-### 2️⃣ RoboShop Application — Microservices Deployment
-
-- Services: `user`, `catalogue`, `cart`, `shipping`, `payment`, `frontend`
-- Deployments via:
-  - `Shell Scripts` (`roboshop-shell`)
-  - `Ansible` roles for config management
-  - `Docker` containers
-  - `Kubernetes` (via `k8-*` repos, `helm-charts`)
-  - App-level provisioning via Terraform modules
-
-🧩 Repos:  
-- [gopi-tech](https://github.com/gopi-tech) — initial versions & scripting  
-- [gopi-tools](https://github.com/gopi-tools) — refined automation & Helm-based deployments
+| Repository             | Description                                   |
+|-----------------------|-----------------------------------------------|
+| `roboshop-infra-prod` | Terraform-based production infrastructure for RoboShop e-commerce app |
+| `k8-resources`        | Kubernetes manifests and resource definitions |
+| `roboshop-ansible`    | Ansible roles for application deployment       |
+| `terraform-aws-eks`   | EKS cluster provisioning using Terraform       |
 
 ---
 
-## 🚀 Why This Project Matters
+## 🔧 Gopi86s (2025–Present) — Advanced Automation & Modernization
 
-- Combines both **infrastructure** and **application lifecycle**
-- Uses **real DevOps workflows** like provisioning, scaling, teardown
-- Simulates challenges like **modularity**, **secrets handling**, **CI/CD automation**
-- Demonstrates ability to work across **cloud, container, and configuration layers**
+This newer organization contains my latest work refining automation scripts, improving CI/CD pipelines, and modernizing infrastructure deployments with the latest DevOps practices.
 
----
+**Key Highlights:**
 
-## 🧰 Tech Stack
+- Enhanced Terraform modules and multi-environment setups  
+- Improved Helm charts and Kubernetes resource automation  
+- Sophisticated CI/CD workflows integrating Jenkins and GitHub Actions  
+- Focus on security, scalability, and monitoring enhancements
 
-| Category               | Tools / Technologies                            |
-|------------------------|--------------------------------------------------|
-| **IaC**                | Terraform, Shell, Ansible                        |
-| **Cloud**              | AWS (EKS, VPC, ALB, RDS, ACM, S3, CloudFront)   |
-| **Containers**         | Docker, Kubernetes, Helm                        |
-| **CI/CD**              | Jenkins, GitHub Actions, Groovy Pipelines       |
-| **Scripting**          | Bash, Shell, Jinja                              |
-| **Environments**       | Dev & Prod                                       |
+Explore repositories: [https://github.com/orgs/Gopi86s/repositories](https://github.com/orgs/Gopi86s/repositories)
+
+*(Add your top repos from Gopi86s here when ready)*
 
 ---
 
-## 📫 Contact
+## 🛠 Technologies & Tools
 
-I’m currently looking for **on-site roles** where I can bring hands-on automation experience and SRE practices to production teams.
+- **Infrastructure as Code:** Terraform, Ansible, Shell scripting  
+- **Cloud:** AWS (VPC, EKS, ALB, RDS, ACM, CloudFront)  
+- **Containers & Orchestration:** Docker, Kubernetes, Helm  
+- **CI/CD:** Jenkins, GitHub Actions, Groovy Pipelines  
+- **Languages & Scripting:** Bash, Shell, Jinja
 
-- 💼 Role: **Site Reliability Engineer / DevOps Engineer**
-- 📍 Location preference: Bengaluru, Hyderabad, Chennai, Pune
-- 📧 Reach me via GitHub [@Gopi1214](https://github.com/Gopi1214)
+---
 
-> _"I built RoboShop to master infrastructure as code and real-world microservices automation — not as a demo, but as a deep-dive."_  
-> — Gopi
+## 📫 Contact & Availability
+
+- Currently seeking **on-site SRE/DevOps roles** in Bengaluru, Hyderabad, Chennai, or Pune  
+- GitHub Profile: [Gopi1214](https://github.com/Gopi1214)  
+- Email: (Add your email here)  
+
+---
+
+*“I build, automate, and scale cloud infrastructure and microservices with reliability and efficiency at the core.”*  
+— Gopi
