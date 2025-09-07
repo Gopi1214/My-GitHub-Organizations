@@ -32,7 +32,6 @@ A complete, production-ready infrastructure repository using **Terraform + Jenki
 
 ![Infrastructure Diagram](https://raw.githubusercontent.com/Gopi76s/roboshop-infra-prod/main/infra.jpg)
 
-> *Make sure the diagram is uploaded as `infra.jpg` in the repo root for this to render.*
 
 ###  Infrastructure Metrics
 
